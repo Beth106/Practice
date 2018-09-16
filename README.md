@@ -29,11 +29,23 @@ To do lists use a - and 2 spaces
   - Sub bullet
   - Second sub bullet
   
-Using tabs
+Using tabs doesn't work
 
-	- Thing one
-	- Thing two
-		- Thing 2a
+- Thing one
+- Thing two
+	- Thing 2a
+	
+A numbered list uses numbers
+1. My list
+2. This is second item
+    This is still part of 2
+    
+    This is not
+    
+Can start a list anywhere
+
+3. List item
+    - Second list item
 		
 For tables use
 | foo | bar |
@@ -59,6 +71,15 @@ def func(a):
 	return a
 ~~~
 
+---
+
+To do a block quote use
+
+> This is a quote.
+And some more on a new line. 
+It won't stop quoting until I use a blank line.
+
+This is not a quote
 
 
 
