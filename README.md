@@ -8,9 +8,8 @@ This is a mark down file *italics* looks like this and **bold** like this.
 ## This is a heading 2
 
 ### This is a heading 3
-Some text here.
-
-Blank spaces are ignored.
+Some randomly generated text here: Parish so enable innate in formed missed. Hand two was eat busy fail. Stand smart grave would in so. Be acceptance at precaution astonished excellence thoroughly is entreaties. Who decisively attachment has dispatched. Fruit defer in party me built under first. Forbade him but savings sending ham general. So play do in near park that pain. Up is opinion message manners correct hearing husband my. Disposing commanded dashwoods cordially depending at at. Its strangers who you certainty earnestly resources suffering she. Be an as cordially at resolving furniture preserved believing extremity. Easy mr pain felt in. Too northward affection additions nay. He no an nature ye talent houses wisdom vanity denied.
+More than one new line doesn't make a difference. Blank spaces are ignored.
 
 
 So this is not a new paragraph. Instead have to end with a thematic break
@@ -23,6 +22,11 @@ To do lists use
 	-1. Thing one
 	-2. Thing two
 		a. Thing 2a
+		
+For tables use
+| foo | bar |
+| --- | --- |
+| baz | bim |
 
 ---
 
