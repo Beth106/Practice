@@ -23,15 +23,29 @@ So this doesn't appear 5 lines later. Instead to make a break, use a thematic br
 
 This is a new section.
 
-To do lists use
-	-1. Thing one
-	-2. Thing two
-		a. Thing 2a
+To do lists use a - and 2 spaces
+
+- Start of list
+  - Sub bullet
+  - Second sub bullet
+  
+Using tabs
+
+	- Thing one
+	- Thing two
+		- Thing 2a
 		
 For tables use
 | foo | bar |
 | --- | --- |
+| foo | bar |
+
+Must have a blank line above the table
+
+| foo | bar |
+| --- | --- |
 | baz | bim |
+| cat | dog |
 
 ---
 
