@@ -81,8 +81,14 @@ It won't stop quoting until I use a blank line.
 
 This is not a quote
 
-To include an image from a webpage
+To include an image from a webpage:
+
 ![Wikipedia image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Carlo_Crivelli_007.jpg/800px-Carlo_Crivelli_007.jpg)
 
-or from my own files
+To make it smaller:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Carlo_Crivelli_007.jpg/800px-Carlo_Crivelli_007.jpg" alt="Thomas Aquinas" height="200">
+
+or from my own files:
+
 ![Quokka](https://github.com/Beth106/Practice/blob/master/quokka1.jpg)
