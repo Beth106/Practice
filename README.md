@@ -84,4 +84,4 @@ This is not a quote
 To include an image from a webpage
 ![Wikipedia image](https://en.wikipedia.org/wiki/Thomas_Aquinas#/media/File:Carlo_Crivelli_007.jpg)
 or from my own files
-![Quokka](
+![Quokka](https://github.com/Beth106/Practice/blob/master/quokka1.jpg)
