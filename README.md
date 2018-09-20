@@ -81,6 +81,7 @@ It won't stop quoting until I use a blank line.
 
 This is not a quote
 
-To include an image
-![alt text](https://en.wikipedia.org/wiki/Thomas_Aquinas#/media/File:Carlo_Crivelli_007.jpg)
-
+To include an image from a webpage
+![Wikipedia image](https://en.wikipedia.org/wiki/Thomas_Aquinas#/media/File:Carlo_Crivelli_007.jpg)
+or from my own files
+![Quokka](
