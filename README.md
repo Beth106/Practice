@@ -92,3 +92,5 @@ To make it smaller:
 or from my own files:
 
 ![Quokka](https://github.com/Beth106/Practice/blob/master/quokka1.jpg)
+
+This change has been made on my local computer and pushed up.
